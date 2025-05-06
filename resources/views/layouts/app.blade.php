@@ -24,8 +24,8 @@
             position: relative;
             overflow: hidden;
             background-color: transparent;
-            border: 2px solid #6f42c1;
-            color: #6f42c1;
+            border: 2px solid rgb(161, 1, 1);
+            color:rgb(161, 1, 1);
             transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out;
         }
 
